@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Dashboard_oxd-icon bi-caret-down-fill oxd_d2fd49</name>
+   <name>dropDownProfile</name>
    <tag></tag>
    <elementGuidId>65d1cec4-21d2-4fbc-8865-8296d9634ce0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span/i</value>
+         <value>//*[@class='oxd-userdropdown-name']/following-sibling::i[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>aa6456b9-ad0c-46a9-b521-637fea22eeae</webElementGuid>
+      <webElementGuid>c63cc42b-aaba-43c8-96cf-7d908de0ecd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-icon bi-caret-down-fill oxd-userdropdown-icon</value>
-      <webElementGuid>63ceeb6c-c664-40e9-b106-8ca3c874e38b</webElementGuid>
+      <webElementGuid>871f8d1e-52ca-4cbd-8d9b-06f4c146aee8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-userarea&quot;]/ul[1]/li[@class=&quot;oxd-userdropdown&quot;]/span[@class=&quot;oxd-userdropdown-tab&quot;]/i[@class=&quot;oxd-icon bi-caret-down-fill oxd-userdropdown-icon&quot;]</value>
-      <webElementGuid>ef7b8d9d-f226-4d9f-bb1f-0d88e18e0b5d</webElementGuid>
+      <webElementGuid>0a08d51b-0761-4a05-ad66-f508116b7712</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span/i</value>
-      <webElementGuid>a99cd737-a852-4b0c-bf50-f39c240926c1</webElementGuid>
+      <webElementGuid>09b1ed0e-941e-4eb3-9b16-c845e997393d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/i</value>
-      <webElementGuid>f52ec27f-733c-4f4f-b966-5e3fb8a3ae7f</webElementGuid>
+      <webElementGuid>d198d087-05f5-449d-97fc-ddf39113a31b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
